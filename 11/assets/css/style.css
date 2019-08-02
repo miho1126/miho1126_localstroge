@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body {
+  text-align: center;
+  margin-top: 60px;
+}
+:focus {
+  outline: 1px solid #661077;
+}
+
+input[type = "text"]{
+  margin: 0 0 15px;
+  padding: 8px 10px;
+  border: 1px solid rgb(186, 45, 214);
+}
+button {
+  padding: 8px 15px;
+  background: #3beb7e;
+  color: #ffff;
+  border: none;
+}
